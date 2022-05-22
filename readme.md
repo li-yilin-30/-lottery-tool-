@@ -17,7 +17,7 @@
   + reward.txt是模拟双色球的中奖名单
   + pwdandname.txt base编码后管理用户的登录和注册
 
-![image-20220522104313701](C:%5CUsers%5C50502%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220522104313701.png)
+![image](https://user-images.githubusercontent.com/79775390/169678801-0f2bca52-9da8-4bab-a506-968f1e9065f9.png)
 
 多人抽奖说明：
 
